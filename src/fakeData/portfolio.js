@@ -300,46 +300,7 @@
 
 
 export const homePortfolioSectionData = [
-    {
-        id: 1,
-        title: 'Directory Listing Admin Panel',
-        skills: ["PHP", "Laravel Framework","MySql","Payment Getway","Facebook Pixel", "tawk. to","Pusher(Notification)", "Role & Permission","Multi Language","Multi Currency","Reat time currency chnage"],
-        description: 'Directory Listing is a credit-based admin panel platform designed for managing and organizing directory listings with ease and efficiency',
-        cardImage: require('../assets/images/projects/directory.png'),
-        figma: "",
-        isPrivate: false,
-        liveUrl: 'https://directory.quomodosoft.online/',
-        youtubeUrl: '',
-    },
-    {
-        id: 2,
-        title: 'Directory Listing',
-        skills: ["Javascript","React.js","Next.js", "Redux", "Redux Toolkit", "open street", "Auto Login", "2Factor Authentication", "Multi Language","Multi Currency","Reat time currency chnage"],
-        description: `Directory Listing is a credit-based platform that offers a sleek, user-friendly frontend for browsing and discovering directory listings effortlessly.`,
-        cardImage: require('../assets/images/projects/directory-frontend.png'),
-        liveUrl: 'https://listing-quomodo.vercel.app',
-        youtubeUrl: '',
-        figma: "",
-        githubUrl: '',
-        isPrivate: false
-    },
 
-    {
-        id: 3,
-        title: 'Homeco',
-        skills: ["PHP","Laravel",,"SaaS","MySql", "Payment Getway", "SMS getway","Multiple Admin","Subscription",
-            "HTML", "CSS", "jQuery","3 Homepage"],
-        description: '🚀 Property List is a streamlined platform for showcasing and browsing real estate properties, offering an intuitive and user-friendly interface. 🚀',
-        cardImage: require('../assets/images/projects/property.png'),
-        figma: "",
-        liveUrl: 'https://property.familyneedsbd.com/',
-        youtubeUrl: '',
-        githubUrl: "",
-        isPrivate: false
-    },
-
-]
-export const homePortfolioPageData = [
     {
         id: 3,
         results: {
@@ -372,15 +333,101 @@ export const homePortfolioPageData = [
                 },
                 {
                     id: 3,
-                    title: 'NFT Alien',
-                    skills: ["ReactJS", 'Figma to React', 'HTML', 'CSS', "JavaScript", "Material UI",],
-                    description: `A collection of 2525 highly-fashionable NFTs on the ETH Blockchain. Unique, metaverse-ready, and designed to benefit their holders.`,
-                    cardImage: require('../assets/images/projects/nftAlien.png'),
+                    title: 'Aii SaaS',
+                    skills: ["PHP", 'Laravel', 'HTML', 'CSS',"Bootstrap","JavaScript",'jQuery',"Payment Getway","SMS Getway","Multiple Admin"],
+                    description: `AI SaaS is a cutting-edge platform that leverages artificial intelligence to deliver scalable solutions, empowering businesses with smart automation, data-driven insights, and seamless integration.`,
+                    cardImage: require('../assets/images/projects/ai_saas.png'),
                     isPrivate: false,
-                    liveUrl: 'https://nft-alien-v2.netlify.app/',
+                    liveUrl: 'https://aisaas.familyneedsbd.com/',
                     youtubeUrl: '',
                     githubUrl: '',
-                    figma: 'https://www.figma.com/community/file/1177468786531815516'
+                    figma: ''
+                },
+            ]
+        },
+    }
+    
+
+]
+export const homePortfolioPageData = [
+    {
+        id: 4,
+        title: 'Directory Listing Admin Panel',
+        skills: ["PHP", "Laravel Framework","MySql","Payment Getway","Facebook Pixel", "tawk. to","Pusher(Notification)", "Role & Permission","Multi Language","Multi Currency","Reat time currency chnage"],
+        description: 'Directory Listing is a credit-based admin panel platform designed for managing and organizing directory listings with ease and efficiency',
+        cardImage: require('../assets/images/projects/directory.png'),
+        figma: "",
+        isPrivate: false,
+        liveUrl: 'https://directory.quomodosoft.online/',
+        youtubeUrl: '',
+    },
+    {
+        id: 5,
+        title: 'Directory Listing',
+        skills: ["Javascript","React.js","Next.js", "Redux", "Redux Toolkit", "open street", "Auto Login", "2Factor Authentication", "Multi Language","Multi Currency","Reat time currency chnage"],
+        description: `Directory Listing is a credit-based platform that offers a sleek, user-friendly frontend for browsing and discovering directory listings effortlessly.`,
+        cardImage: require('../assets/images/projects/directory-frontend.png'),
+        liveUrl: 'https://listing-quomodo.vercel.app',
+        youtubeUrl: '',
+        figma: "",
+        githubUrl: '',
+        isPrivate: false
+    },
+
+    {
+        id: 6,
+        title: 'Homeco',
+        skills: ["PHP","Laravel",,"SaaS","MySql", "Payment Getway", "SMS getway","Multiple Admin","Subscription",
+            "HTML", "CSS", "jQuery","3 Homepage"],
+        description: '🚀 Property List is a streamlined platform for showcasing and browsing real estate properties, offering an intuitive and user-friendly interface. 🚀',
+        cardImage: require('../assets/images/projects/property.png'),
+        figma: "",
+        liveUrl: 'https://property.familyneedsbd.com/',
+        youtubeUrl: '',
+        githubUrl: "",
+        isPrivate: false
+    },
+    {
+        id: 7,
+        results: {
+            title: 'Laravel Project',
+            data: [
+                {
+                    id: 1,
+                    title: 'Alasmart(Digital product)',
+                    skills: ["PHP", 'Laravel',"Javascript","jQuery",'HTML', 'CSS', "Bootstrap","Payment Getway","SMS Getway","Multiple Admin","Multi-Language","Multi Currency",],
+                    description: 'Shihami is a premier digital marketplace where you can buy, sell, and trade cutting-edge digital products. Discover unique assets, showcase your creations, and turn your passion into profit with ease.',
+                    cardImage: require('../assets/images/projects/alasmart.png'),
+                    figma: "",
+                    isPrivate: false,
+                    liveUrl: 'https://dproduct.familyneedsbd.com/',
+                    youtubeUrl: '',
+                    githubUrl: ''
+                },
+                {
+                    id: 2,
+                    title: 'Inflener(Influencer)',
+                    skills: ["PHP", 'Laravel', 'HTML', 'CSS', "Bootstrao","JavaScript","jQuery","Payment Getway","SMS Getway","Multiple Admin","Multi-Language","Multi Currency"],
+                    description: `The Leading NFT Marketplace On Ethereum Home To The Next Generation Of Digital Creators. Discover The Best NFT Collections.`,
+                    cardImage: require('../assets/images/projects/inflener.jpg'),
+                    figma: "",
+                    isPrivate: false,
+                    liveUrl: 'https://inflener.familyneedsbd.com/',
+                    youtubeUrl: '',
+                    githubUrl: '',
+
+                },
+                {
+                    id: 3,
+                    title: 'Aii SaaS',
+                    skills: ["PHP", 'Laravel', 'HTML', 'CSS',"Bootstrap","JavaScript",'jQuery',"Payment Getway","SMS Getway","Multiple Admin"],
+                    description: `AI SaaS is a cutting-edge platform that leverages artificial intelligence to deliver scalable solutions, empowering businesses with smart automation, data-driven insights, and seamless integration.`,
+                    cardImage: require('../assets/images/projects/ai_saas.png'),
+                    isPrivate: false,
+                    liveUrl: 'https://aisaas.familyneedsbd.com/',
+                    youtubeUrl: '',
+                    githubUrl: '',
+                    figma: ''
                 },
             ]
         },
