@@ -302,44 +302,7 @@
 export const homePortfolioSectionData = [
 
     
-    // {
-    //     id: 1,
-    //     title: 'Directory Listing Admin Panel',
-    //     skills: ["PHP", "Laravel Framework","MySql","Payment Getway","Facebook Pixel", "tawk. to","Pusher(Notification)", "Role & Permission","Multi Language","Multi Currency","Reat time currency chnage"],
-    //     description: 'Directory Listing is a credit-based admin panel platform designed for managing and organizing directory listings with ease and efficiency',
-    //     cardImage: require('../assets/images/projects/directory.png'),
-    //     figma: "",
-    //     isPrivate: false,
-    //     liveUrl: 'https://directory.quomodosoft.online/',
-    //     youtubeUrl: '',
-    // },
-    // {
-    //     id: 2,
-    //     title: 'Directory Listing',
-    //     skills: ["Javascript","React.js","Next.js", "Redux", "Redux Toolkit", "open street", "Auto Login", "2Factor Authentication", "Multi Language","Multi Currency","Reat time currency chnage"],
-    //     description: `Directory Listing is a credit-based platform that offers a sleek, user-friendly frontend for browsing and discovering directory listings effortlessly.`,
-    //     cardImage: require('../assets/images/projects/directory-frontend.png'),
-    //     liveUrl: 'https://listing-quomodo.vercel.app',
-    //     youtubeUrl: '',
-    //     figma: "",
-    //     githubUrl: '',
-    //     isPrivate: false
-    // },
-
-    // {
-    //     id: 3,
-    //     title: 'Homeco',
-    //     skills: ["PHP","Laravel",,"SaaS","MySql", "Payment Getway", "SMS getway","Multiple Admin","Subscription",
-    //         "HTML", "CSS", "jQuery","3 Homepage"],
-    //     description: '🚀 Property List is a streamlined platform for showcasing and browsing real estate properties, offering an intuitive and user-friendly interface. 🚀',
-    //     cardImage: require('../assets/images/projects/property.png'),
-    //     figma: "",
-    //     liveUrl: 'https://property.familyneedsbd.com/',
-    //     youtubeUrl: '',
-    //     githubUrl: "",
-    //     isPrivate: false
-    // },
-
+    
     {
         id: 1,
         title: 'Alasmart(Digital product)',
@@ -377,6 +340,8 @@ export const homePortfolioSectionData = [
         githubUrl: '',
         figma: ''
     },
+    
+
 
 ]
 export const homePortfolioPageData = [
@@ -421,6 +386,43 @@ export const homePortfolioPageData = [
                     youtubeUrl: '',
                     githubUrl: '',
                     figma: ''
+                },
+                {
+                    id: 4,
+                    title: 'Directory Listing Admin Panel',
+                    skills: ["PHP", "Laravel Framework","MySql","Payment Getway","Facebook Pixel", "tawk. to","Pusher(Notification)", "Role & Permission","Multi Language","Multi Currency","Reat time currency chnage"],
+                    description: 'Directory Listing is a credit-based admin panel platform designed for managing and organizing directory listings with ease and efficiency',
+                    cardImage: require('../assets/images/projects/directory.png'),
+                    figma: "",
+                    isPrivate: false,
+                    liveUrl: 'https://directory.quomodosoft.online/',
+                    youtubeUrl: '',
+                },
+                {
+                    id: 5,
+                    title: 'Directory Listing',
+                    skills: ["Javascript","React.js","Next.js", "Redux", "Redux Toolkit", "open street", "Auto Login", "2Factor Authentication", "Multi Language","Multi Currency","Reat time currency chnage"],
+                    description: `Directory Listing is a credit-based platform that offers a sleek, user-friendly frontend for browsing and discovering directory listings effortlessly.`,
+                    cardImage: require('../assets/images/projects/directory-frontend.png'),
+                    liveUrl: 'https://listing-quomodo.vercel.app',
+                    youtubeUrl: '',
+                    figma: "",
+                    githubUrl: '',
+                    isPrivate: false
+                },
+            
+                {
+                    id: 6,
+                    title: 'Homeco',
+                    skills: ["PHP","Laravel",,"SaaS","MySql", "Payment Getway", "SMS getway","Multiple Admin","Subscription",
+                        "HTML", "CSS", "jQuery","3 Homepage"],
+                    description: '🚀 Property List is a streamlined platform for showcasing and browsing real estate properties, offering an intuitive and user-friendly interface. 🚀',
+                    cardImage: require('../assets/images/projects/property.png'),
+                    figma: "",
+                    liveUrl: 'https://property.familyneedsbd.com/',
+                    youtubeUrl: '',
+                    githubUrl: "",
+                    isPrivate: false
                 },
             ]
         },

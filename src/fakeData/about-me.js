@@ -28,13 +28,13 @@ export const aboutMePageData = {
         "I love to spend time with my family",
         "I love to travel",
         "Eating is my hobby!",
-        "I often bike with my friends",
+        "I often biking with my friends",
         "Winter is my favorite season",
         "Miss my childhood days",
         "When i depressed, i love to coding and pray to Allah",
 
     ],
-    overleafResume: 'https://www.overleaf.com/read/vgxvgygfvxjw#28ee64',
+    overleafResume: '',
     image: require('../assets/images/about.webp'),
 }
 export const homeAboutSectionData = {
@@ -48,6 +48,6 @@ export const homeAboutSectionData = {
             text: `I have hands-on experience working with cutting-edge technologies such as Kafka for real-time data streaming, Prisma for database management and ORM, and Nginx for high-performance web server solutions. Additionally, I use Docker to streamline development and deployment processes, ensuring that my applications are robust, secure, and scalable.`,
         }
     ],
-    overleafResume: 'https://www.overleaf.com/read/vgxvgygfvxjw#28ee64',
+    overleafResume: '',
     image: require('../assets/images/about.webp'),
 }
