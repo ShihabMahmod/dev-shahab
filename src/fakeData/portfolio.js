@@ -343,6 +343,51 @@ export const homePortfolioPageData = [
     {
         id: 3,
         results: {
+            title: 'Laravel Project',
+            data: [
+                {
+                    id: 1,
+                    title: 'Alasmart(Digital product)',
+                    skills: ["PHP", 'Laravel',"Javascript","jQuery",'HTML', 'CSS', "Bootstrap","Payment Getway","SMS Getway","Multiple Admin","Multi-Language","Multi Currency",],
+                    description: 'Shihami is a premier digital marketplace where you can buy, sell, and trade cutting-edge digital products. Discover unique assets, showcase your creations, and turn your passion into profit with ease.',
+                    cardImage: require('../assets/images/projects/alasmart.png'),
+                    figma: "",
+                    isPrivate: false,
+                    liveUrl: 'https://dproduct.familyneedsbd.com/',
+                    youtubeUrl: '',
+                    githubUrl: ''
+                },
+                {
+                    id: 2,
+                    title: 'Inflener(Influencer)',
+                    skills: ["PHP", 'Laravel', 'HTML', 'CSS', "Bootstrao","JavaScript","jQuery","Payment Getway","SMS Getway","Multiple Admin","Multi-Language","Multi Currency"],
+                    description: `The Leading NFT Marketplace On Ethereum Home To The Next Generation Of Digital Creators. Discover The Best NFT Collections.`,
+                    cardImage: require('../assets/images/projects/nft2.png'),
+                    figma: "",
+                    isPrivate: false,
+                    liveUrl: 'https://inflener.familyneedsbd.com/',
+                    youtubeUrl: '',
+                    githubUrl: '',
+
+                },
+                {
+                    id: 3,
+                    title: 'NFT Alien',
+                    skills: ["ReactJS", 'Figma to React', 'HTML', 'CSS', "JavaScript", "Material UI",],
+                    description: `A collection of 2525 highly-fashionable NFTs on the ETH Blockchain. Unique, metaverse-ready, and designed to benefit their holders.`,
+                    cardImage: require('../assets/images/projects/nftAlien.png'),
+                    isPrivate: false,
+                    liveUrl: 'https://nft-alien-v2.netlify.app/',
+                    youtubeUrl: '',
+                    githubUrl: '',
+                    figma: 'https://www.figma.com/community/file/1177468786531815516'
+                },
+            ]
+        },
+    },
+    {
+        id: 3,
+        results: {
             title: 'web3 landing page',
             data: [
                 {
@@ -494,21 +539,21 @@ export const homePortfolioPageData = [
                     githubUrl: ''
 
                 },
-                {
-                    id: 6,
-                    title: 'Video Chat App',
-                    skills: ["ReactJS",
-                        "HTML", "CSS", "Socket.io", "express", "node.js",
-                        "JavaScript"],
-                    isPrivate: false,
-                    description: 'WebRTC Video Chat App',
-                    cardImage: require('../assets/images/projects/rtc.png'),
-                    liveUrl: 'https://video-chat-zoom-clone.netlify.app/',
-                    figma: "https://www.figma.com/file/HPX2Q9k7QC0jughEcor3Ad/Bai1234?fuid=1020350840147497557",
-                    youtubeUrl: '',
-                    githubUrl: ''
+                // {
+                //     id: 6,
+                //     title: 'Video Chat App',
+                //     skills: ["ReactJS",
+                //         "HTML", "CSS", "Socket.io", "express", "node.js",
+                //         "JavaScript"],
+                //     isPrivate: false,
+                //     description: 'WebRTC Video Chat App',
+                //     cardImage: require('../assets/images/projects/rtc.png'),
+                //     liveUrl: 'https://video-chat-zoom-clone.netlify.app/',
+                //     figma: "https://www.figma.com/file/HPX2Q9k7QC0jughEcor3Ad/Bai1234?fuid=1020350840147497557",
+                //     youtubeUrl: '',
+                //     githubUrl: ''
 
-                },
+                // },
 
             ],
         }
