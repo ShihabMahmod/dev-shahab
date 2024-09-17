@@ -362,7 +362,7 @@ export const homePortfolioPageData = [
                     title: 'Inflener(Influencer)',
                     skills: ["PHP", 'Laravel', 'HTML', 'CSS', "Bootstrao","JavaScript","jQuery","Payment Getway","SMS Getway","Multiple Admin","Multi-Language","Multi Currency"],
                     description: `The Leading NFT Marketplace On Ethereum Home To The Next Generation Of Digital Creators. Discover The Best NFT Collections.`,
-                    cardImage: require('../assets/images/projects/nft2.png'),
+                    cardImage: require('../assets/images/projects/inflener.jpg'),
                     figma: "",
                     isPrivate: false,
                     liveUrl: 'https://inflener.familyneedsbd.com/',
