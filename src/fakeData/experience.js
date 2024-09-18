@@ -3,7 +3,7 @@ export const experiences = [
         id: 1,
         title: "Full Stack Senior Developer",
         company: "WebHussle",
-        hireFor: "Laravel + React.js",
+        hireFor: "Laravel & Node.js",
         year: "APR 2024 - Present",
         role: [
             "Architect and develop full-stack web solutions using Laravel, Node.js and React.js, providing a seamless end-to-end user experience.",
@@ -37,7 +37,7 @@ export const experiences = [
         title: "Full Stack Developer",
         company: "Quomodosoft",
         year: "ebruary 2022 – November 2023",
-        hireFor: "Laravel",
+        hireFor: "Laravel & Node.js",
         role: [
             "Develop the development of enterprise-level applications using Laravel,Node.js and React.js, including building custom APIs and integrating third-party services.",
             "Designed efficient database schemas with MySql, PostgreSQL and optimized complex queries to enhance application performance.",
