@@ -1,28 +1,29 @@
 export const experiences = [
+    // {
+    //     id: 1,
+    //     title: "Full Stack Senior Developer",
+    //     company: "WebHussle",
+    //     hireFor: "Laravel & Node.js",
+    //     year: "APR 2024 - Present",
+    //     role: [
+    //         "Architect and develop full-stack web solutions using Laravel, Node.js and React.js, providing a seamless end-to-end user experience.",
+    //         "Design and implement RESTful and GraphQL APIs to support front-end applications, improving the efficiency of API response times.",
+    //         "Enhance deployment workflows with CI/CD pipelines through GitHub Actions and Docker, ensuring rapid, reliable releases.",
+    //         "Ensure the security of the applications by following best practices and implementing security measures (e.g., authentication, authorization, data encryption).",
+    //         "Use performance analysis tools to identify bottlenecks and improve application response times and resource consumption.",
+    //         "Ensure software is optimized for maximum speed, scalability, and performance",
+
+
+    //     ],
+    //     address: "Mirpur-12, Dhaka 1216",
+
+
+    // }, 
     {
         id: 1,
-        title: "Full Stack Senior Developer",
-        company: "WebHussle",
-        hireFor: "Laravel & Node.js",
-        year: "APR 2024 - Present",
-        role: [
-            "Architect and develop full-stack web solutions using Laravel, Node.js and React.js, providing a seamless end-to-end user experience.",
-            "Design and implement RESTful and GraphQL APIs to support front-end applications, improving the efficiency of API response times.",
-            "Enhance deployment workflows with CI/CD pipelines through GitHub Actions and Docker, ensuring rapid, reliable releases.",
-            "Ensure the security of the applications by following best practices and implementing security measures (e.g., authentication, authorization, data encryption).",
-            "Use performance analysis tools to identify bottlenecks and improve application response times and resource consumption.",
-            "Ensure software is optimized for maximum speed, scalability, and performance",
-
-
-        ],
-        address: "Mirpur-12, Dhaka 1216",
-
-
-    }, {
-        id: 2,
         title: "Full Stack Developer",
         company: "SupreoX Limited",
-        year: "December 2023 – March 2024",
+        year: "December 2023 – Running",
         hireFor: "Laravel + React.js",
         role: [
             "Spearheaded the development of scalable back-end services using Laravel, integrated with MySql and Redis for optimized data storage and caching.",
@@ -47,7 +48,7 @@ export const experiences = [
         address: "Mirpur-10",
     },
     {
-        id: 2,
+        id: 3,
         title: "Laravel Developer",
         company: "Modern Web Solution",
         year: "February 2020 – February 2022",
